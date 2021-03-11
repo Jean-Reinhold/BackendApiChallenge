@@ -16,7 +16,7 @@ Para a criação da API foram utlizados: `Express`, `Knex`, `PostgresSQL`. Porta
 Utilizando Insomnia, realize os requests tendo em mente de que inicialmente existem apenas projetos no database
 
 * `GET /projects/index` Retorna uma lista de todos os projetos
-![1](testPrints/projecIndex.png)
+![1](testPrints/naverIndex.png)
 
 * `POST /navers/store` Utilizando dados do body, insere um novo naver no database
 ![Store](naverStore.png)
